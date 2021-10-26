@@ -14,8 +14,8 @@ This project utilizes the following React's Concepts:
 - Handling Context with useContext Hook
 - Handling Side Effects with useEffect Hook
 - Handling Input
-- Fetching Data via Http
-- Submitting & Sending Data to Backend
+- Fetching Data via Http (Firebase Realtime Database)
+- Submitting & Sending Data to Backend (Firebase Realtime Database)
 
 
 
